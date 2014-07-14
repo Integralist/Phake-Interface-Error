@@ -1,0 +1,5 @@
+{
+    "require-dev": {
+        "phake/phake": "v2.0.0-alpha1"
+    }
+}
